@@ -1,0 +1,4 @@
+dialog(char1, 누구세요, 3)
+dialog(char2, 누구세요, 3)
+dialog(char1, 누구세요, 3)
+dialog(char2, 누구세요, 3)

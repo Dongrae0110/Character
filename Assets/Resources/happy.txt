@@ -1,0 +1,2 @@
+dialog(char1, 안녕하세요, 2)
+wait(3)
