@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem.Controls;
 
 public class UI_6 : MonoBehaviour
 {
@@ -22,6 +23,7 @@ public class UI_6 : MonoBehaviour
 
     private IEnumerator ShowAndHideUI()
     {
+        
         image.SetActive(true); // Show the image
 
         // Wait for 3 seconds
